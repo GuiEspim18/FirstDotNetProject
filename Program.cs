@@ -11,9 +11,15 @@ namespace HelloWorld
     {
         public static void Main(String[] args)
         {
-            HelloModel model = new(); // ou new HelloModel()
-            Console.WriteLine("Hello " + model.Name);
-            Console.Read(); // espera o user digitar algo para seguir a execução
+            // HelloModel model = new(); // ou new HelloModel()
+            // Console.WriteLine("Hello " + model.Name);
+            // Console.Read(); // espera o user digitar algo para seguir a execução
+            var name = "Guilherme";
+            Console.WriteLine(name);
+            int value = 10;
+            value += 1;
+            Console.WriteLine(value);
+            double doubleValue = 10.5;
         }
     }
 }
