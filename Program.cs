@@ -14,19 +14,29 @@ namespace HelloWorld
             // HelloModel model = new(); // ou new HelloModel()
             // Console.WriteLine("Hello " + model.Name);
             // Console.Read(); // espera o user digitar algo para seguir a execução
-            var name = "Guilherme";
-            if (name == "Guilherme")
+
+            // var name = "Guilherme";
+            // if (name == "Guilherme")
+            // {
+            //     Console.WriteLine("Hello Guilherme");
+            // } else 
+            // {
+            //     Console.WriteLine("Hello unknow person");
+            // }
+
+            // Console.WriteLine(name);
+
+            // int value = 10;
+            // value += 1;
+            // Console.WriteLine(value);
+            // double doubleValue = 10.5;
+
+            string[] list = {"Guilherme", "Heloisa"};
+            foreach (var item in list) 
             {
-                Console.WriteLine("Hello Guilherme");
-            } else 
-            {
-                Console.WriteLine("Hello unknow person");
+                Console.WriteLine(item);
             }
-            Console.WriteLine(name);
-            int value = 10;
-            value += 1;
-            Console.WriteLine(value);
-            double doubleValue = 10.5;
+
         }
     }
 }
