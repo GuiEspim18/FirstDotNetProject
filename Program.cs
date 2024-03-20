@@ -15,6 +15,13 @@ namespace HelloWorld
             // Console.WriteLine("Hello " + model.Name);
             // Console.Read(); // espera o user digitar algo para seguir a execução
             var name = "Guilherme";
+            if (name == "Guilherme")
+            {
+                Console.WriteLine("Hello Guilherme");
+            } else 
+            {
+                Console.WriteLine("Hello unknow person");
+            }
             Console.WriteLine(name);
             int value = 10;
             value += 1;
