@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KI4CkIoar9qJTAF0uwWMUb+qLVcgFfX2wiPTxpa7IbcmYj0o2/OWS7HMVZin6IrMKhKLRhRb+cVh1gnhNzjucg==",
+  "dgSpecHash": "JWI5pSFeGEQbDjrJHa8k2r5VJPcz2GqALr/6YUMTJJaaUothl25fwUcWUuNjQ9Fiyrgqq1IDkvQmklDLm5nEaA==",
   "success": true,
-  "projectFilePath": "/Users/guiespim/Documents/pasta-do-gui/dot-net/HelloWorld/HelloWorld.csproj",
+  "projectFilePath": "/Users/guiespim/Documents/pasta-do-gui/dot-net/FirstDotNetProject/HelloWorld.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

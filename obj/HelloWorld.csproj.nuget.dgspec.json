@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/guiespim/Documents/pasta-do-gui/dot-net/HelloWorld/HelloWorld.csproj": {}
+    "/Users/guiespim/Documents/pasta-do-gui/dot-net/FirstDotNetProject/HelloWorld.csproj": {}
   },
   "projects": {
-    "/Users/guiespim/Documents/pasta-do-gui/dot-net/HelloWorld/HelloWorld.csproj": {
+    "/Users/guiespim/Documents/pasta-do-gui/dot-net/FirstDotNetProject/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/guiespim/Documents/pasta-do-gui/dot-net/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "/Users/guiespim/Documents/pasta-do-gui/dot-net/FirstDotNetProject/HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/Users/guiespim/Documents/pasta-do-gui/dot-net/HelloWorld/HelloWorld.csproj",
+        "projectPath": "/Users/guiespim/Documents/pasta-do-gui/dot-net/FirstDotNetProject/HelloWorld.csproj",
         "packagesPath": "/Users/guiespim/.nuget/packages/",
-        "outputPath": "/Users/guiespim/Documents/pasta-do-gui/dot-net/HelloWorld/obj/",
+        "outputPath": "/Users/guiespim/Documents/pasta-do-gui/dot-net/FirstDotNetProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/guiespim/.nuget/NuGet/NuGet.Config"
